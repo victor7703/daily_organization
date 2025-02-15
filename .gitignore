@@ -1,1 +1,4 @@
-meuterminal/ 
+#meuterminal/ 
+terminal/
+__pycache__
+instance/
